@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # machine-learning-intern-tasks
 
 
@@ -22,7 +21,5 @@ I'm a machine learning Enginner
 
 [![AGPL License](https://img.shields.io/badge/shishir-python-blue)](http://www.gnu.org/licenses/agpl-3.0)
 
-=======
 # shishir-py-machine-learning-intern-tasks
->>>>>>> origin/main
 # machine-learning-task
